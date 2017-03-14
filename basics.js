@@ -29,3 +29,9 @@ var dataTypes = ["String", 1, true, null, undefined, [1, 2], {name: "Alexander D
  * it should have a `bark` function that makes your dog bark!
  * It should also have a name attribute with the value of 'Spot'
  */
+var dog ={
+	name: "Spot",
+	bark: function(){
+		console.log("Bark!");
+	}
+};
