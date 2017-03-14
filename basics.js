@@ -23,6 +23,7 @@ var myName = "Alexander Davis";
 /* Create an array called `dataTypes` with atleast 1 of every data type;
  * (there are 6 different data types);
  */
+var dataTypes = ["String", 1, true, null, undefined, [1, 2], {name: "Alexander Davis", age: 29} ];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
